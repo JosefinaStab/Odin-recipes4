@@ -1,6 +1,8 @@
 body{
     max-width: 600px;
     margin: auto;
+    align-items: center;
+    text-align: center;
 }
 
 img {
@@ -9,21 +11,30 @@ img {
     height: auto;
 }
 
-.one {
-    color: lightsalmon;
+.one {  
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
-    border: 5px;
-
 }
 
 .two {
-    background-color: aquamarine;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
-    border: 15px;
 }
+
+
 .three {
-    color: lightsalmon;
     font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
 }
 
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
 
+
+
+a{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: cadetblue;
+}
+
+*{
+    background-color: rgb(192, 212, 192);
+}
