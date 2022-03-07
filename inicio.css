@@ -1,40 +1,60 @@
 body{
-    max-width: 600px;
+    max-width: 900px;
     margin: auto;
     align-items: center;
     text-align: center;
+    color: antiquewhite;
+    
+}
+.boxcero {
+    padding: 10px;
+    margin: 1px;
+    border: 5px;
+}
+.boxone {
+    padding: 10px;
+    margin: 20px;
+    border: 10px;
 }
 
+.boxtwo{
+    padding: 10px;
+    margin: 20px;
+    border: 10px;
+}
+.boxthree{
+    padding: 10px;
+    margin: 20px;
+    border: 10px;
+}
 img {
     border-radius: 8px;
     width: 300px;
     height: auto;
 }
 
-.one {  
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
-}
-
-.two {
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
-}
-
-
-.three {
-    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
-}
-
-h1{
+p {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+
+h1 {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
 }
 
 
 
 a{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: cadetblue;
+    font-size: 25px;
+    
+
 }
 
 *{
     background-color: rgb(192, 212, 192);
+  
 }
